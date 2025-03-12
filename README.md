@@ -4,7 +4,7 @@
 We developed a low-cost, customizable behavior box designed for conducting animal experiments, particularly in tree shrews and other small animals. This modular platform allows precise control over stimulus presentation and reward delivery while animals maintain access to their home cage. It expands the methodological toolkit for investigating complex behaviors in a controlled yet naturalistic environment.
 
 ## Features
-- **Precision Reward Delivery**: Stepper motors provide fine control (0.11° step rotation) of reward amounts with individual channel control, reducing wear and tear.
+- **Precision Reward Delivery**: Stepper motors provide fine control (0.11° step rotation) of reward amounts with individual channel control, reducing wear and tear. These are downsized versions of the wonderful pumps developed by the Pachter Lab (https://github.com/pachterlab/pegasus).
 - **Adjustable Visual Display**: Can accomodate 14"-15" monitors allowing for  adjustable viewing angles and distances ensure optimal stimulus presentation.
 - **Capacitive Touch Pads**: Enables animals to indicate choices while maintaining gaze at the screen, allowing precise tracking of body position.
 - **Compact and Integrated**: Raspberry Pi 4 replaces external computers, reducing footprint and minimizing the number of Arduinos and wires. All components are mounted directly on the box.
