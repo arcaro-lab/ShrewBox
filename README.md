@@ -1,5 +1,4 @@
-# ShrewBox
-# Modular Behavior Box for Small Animal Experiments
+# ShrewBox: Modular Behavior Box for Tree Shrew and Other Small Animal Experiments
 
 ## Overview
 We developed a low-cost, customizable behavior box designed for conducting animal experiments, particularly in tree shrews and other small animals. This modular platform allows precise control over stimulus presentation and reward delivery while animals maintain access to their home cage. It expands the methodological toolkit for investigating complex behaviors in a controlled yet naturalistic environment.
